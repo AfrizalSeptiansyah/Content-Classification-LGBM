@@ -4,7 +4,7 @@ Content Classification with LGBM
 
 ## Description
 
-In this project, I will classify content into 5 categories: football, news, business, technology and automotive (imbalanced case). Using LGBM with word vector (fasttext) as features extraxtion.
+In this project, I will classify content into 5 categories: football, news, business, technology and automotive (imbalanced case). Using LGBM with word vector (fasttext) as features extraction.
 
 ## Step By Step Solve Problem 
 ### 1. Label Distribution 
