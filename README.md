@@ -33,7 +33,6 @@ I use LGBM algorithm then use RandomSearchCV with 5 cross-validations to find op
 
 
 ### 6. Evaluation 
-
 #### Classification Report
 ![classification_report](https://github.com/AfrizalSeptiansyah/Content-Classification-LGBM/blob/main/asset/classification_report.PNG?raw=true)
 
