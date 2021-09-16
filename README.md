@@ -29,7 +29,7 @@ I am using word vector (fasttext) as feature extraction with 1 word represented 
 
 ### 5. Modeling 
 
-I use LGBM algorithm then use RandomSearchCV with 5 cross-validations to find optimal hyperparameters.
+I use LGBM algorithm then use RandomSearchCV with 5 cross-validations to find optimal hyperparameters. 
 
 
 ### 6. Evaluation 
