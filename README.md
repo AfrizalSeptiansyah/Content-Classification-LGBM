@@ -38,14 +38,14 @@ I use LGBM algorithm then use RandomSearchCV with 5 cross-validations to find op
 ![classification_report](https://github.com/AfrizalSeptiansyah/Content-Classification-LGBM/blob/main/asset/classification_report.PNG?raw=true)
 
 #### Confusion Matrix 
-![confusion_matrix](https://github.com/AfrizalSeptiansyah/Content-Classification-LGBM/blob/main/asset/confusion_matrix.png?raw=true)
+![confusion_matrix](https://github.com/AfrizalSeptiansyah/Content-Classification-LGBM/blob/main/asset/confusion_matrix_lgbm.png?raw=true)
 
 
 ## Sanity Check 
 
 The model successfully predicts new data which is a minority class.
 
-![sanity_check](https://github.com/AfrizalSeptiansyah/Content-Classification-LGBM/blob/main/asset/sanity_check.PNG?raw=true)
+![sanity_check](https://github.com/AfrizalSeptiansyah/Content-Classification-LGBM/blob/main/asset/sanity_check_lgbm.PNG?raw=true)
 
 
 # Conclusion 
